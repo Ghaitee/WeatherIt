@@ -17,4 +17,5 @@ I have used TABLE based layout for easier styling and layouting . I have used My
 - Wind direction
 
 **[Preview](https://samipregmi.ct.ws/weatherapp/)**
+Nayan nembang
 
