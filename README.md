@@ -13,7 +13,7 @@ I have used TABLE based layout for easier styling and layouting . I have used My
 - Windspeed
 - Humidity
 - Temperature
-- Pressure
+- Pressuree
 - Wind direction
 
 **[Preview](https://samipregmi.ct.ws/weatherapp/)**
